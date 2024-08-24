@@ -5,10 +5,10 @@ A Chrome extension to summarize long YouTube videos by utilizing YouTube's trans
 
 Requirements
 The following Python modules must be installed to run the API:
-  Flask
-  youtube-transcript-api
-  transformers
-Instructions
+  Flask, 
+  youtube-transcript-api, 
+  transformers, 
+Instructions:
   Run app.py to start the summarizer API.
   Load the custom extension into any Chromium browser.
   Go to any YouTube video and click on the extension logo to start summarizing.
